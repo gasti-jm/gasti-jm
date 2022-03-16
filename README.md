@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gastón Martínez, i live in Argentina, Buenos Aires.
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning C++, Java and Kotlin.
+- 📫 Contact: gastin22@gmail.com
