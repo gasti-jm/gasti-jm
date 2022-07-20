@@ -26,11 +26,11 @@
 
 # 💻 Workspace Specs
 
-<a target="_blank"><img src="https://img.shields.io/badge/Windows-ASUS_PRIME_A520MK-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Windows-ASUS_PRIME_A520M_K-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></a>
 
-<a target="_blank"><img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/AMD-Ryzen_5_3600_Processor-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img></a>
 
-<a target="_blank"><img src="https://img.shields.io/badge/AMD-RX_570_MSI_4GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/AMD-RX_570_MSI_4GB_Graphic_Card-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img></a>
 
 
 # 📫 Contact
