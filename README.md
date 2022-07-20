@@ -12,13 +12,19 @@ I'm interested in software development!
 <a target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-Git-E92727?style=for-the-badge&logo=Git&logoColor=white"></img></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></a>
 
 # Learning
 
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-BE27E9?&style=for-the-badge&logo=kotlin&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img></a>
+
+# Workspace Specs
+
+<a target="_blank"><img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/AMD-RX_570_MSI_4GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></a>
+
 
 # Contact
 
