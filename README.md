@@ -7,6 +7,7 @@ I'm interested in software development!
 
 <a target="_blank"><img src="https://img.shields.io/badge/-Kotlin-E97627?style=for-the-badge&logo=Kotlin&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-Git-E92727?style=for-the-badge&logo=Git&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-Android-5EE927?style=for-the-badge&logo=Android&logoColor=white"></img></a>
 
 
 ### Contact
