@@ -5,6 +5,9 @@ I'm interested in software development!
 
 ### Technologies and tools
 
+<a target="_blank" href=""><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
+
+<img title="Git" alt="Git" width="70" height="40" />
 
 ### Contact
 
