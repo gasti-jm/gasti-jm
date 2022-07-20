@@ -24,14 +24,6 @@
 <a target="_blank"><img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img></a>
 
-# 💻 Workspace Specs
-
-<a target="_blank"><img src="https://img.shields.io/badge/Windows-ASUS_PRIME_A520M_K-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></a>
-
-<a target="_blank"><img src="https://img.shields.io/badge/AMD-Ryzen_5_3600_Processor-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img></a>
-
-<a target="_blank"><img src="https://img.shields.io/badge/AMD-RX_570_MSI_Graphic_Card-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img></a>
-
 
 # 📫 Contact
 
