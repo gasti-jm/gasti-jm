@@ -5,6 +5,7 @@ I'm interested in software development!
 
 ### Technologies and tools
 
+<a target="_blank" href=""><img src="https://img.shields.io/badge/-Kotlin-E97627?style=for-the-badge&logo=Kotlin&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-Git-E97627?style=for-the-badge&logo=Git&logoColor=white"></img></a>
 
 
