@@ -1,7 +1,7 @@
 # About me
-Hello world 👋!
+¡Hello world!
 
-My name is Jorge Gastón Martínez, everyone calls me Gastón, I'm from Argentina - Buenos Aires. 
+My name is Jorge Gastón Martínez, everyone calls me Gastón, I'm from Argentina, Buenos Aires. 
 I'm interested in software development!
 
 ## Technologies and tools
@@ -13,7 +13,7 @@ I'm interested in software development!
 <a target="_blank"><img src="https://img.shields.io/badge/-Git-E92727?style=for-the-badge&logo=Git&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></a>
 
-# Lerning
+# Learning
 
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-BE27E9?&style=for-the-badge&logo=kotlin&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"></img></a>
