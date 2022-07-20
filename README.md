@@ -1,8 +1,8 @@
 # About me
-¡Hello world!
 
-My name is Jorge Gastón Martínez, everyone calls me Gastón, I'm from Argentina, Buenos Aires. 
-I'm interested in software development!
+* My name is Jorge Gastón Martínez, everyone calls me Gastón.
+* I'm from Argentina, Buenos Aires. 
+* I'm interested in software development!
 
 # 🛠️ Technologies and tools
 
