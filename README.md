@@ -9,7 +9,7 @@ I'm interested in software development!
 <a target="_blank"><img src="https://img.shields.io/badge/-C++-279EE9?style=for-the-badge&logo=Cplusplus&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-C-279EE9?style=for-the-badge&logo=C&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-Java-E97627?style=for-the-badge&logo=java&logoColor=white"></img></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-Kotlin-E97627?style=for-the-badge&logo=Kotlin&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/-Kotlin-CB27E9?style=for-the-badge&logo=Kotlin&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-Git-E92727?style=for-the-badge&logo=Git&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-Android-5EE927?style=for-the-badge&logo=Android&logoColor=white"></img></a>
 
