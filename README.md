@@ -23,7 +23,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-BE27E9?&style=for-the-badge&logo=kotlin&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img></a>
-![Duolingo](https://img.shields.io/badge/English_and_Portuguese-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+![Duolingo](https://img.shields.io/badge/English-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
 
 # 📫 Contact
