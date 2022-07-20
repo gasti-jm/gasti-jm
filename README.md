@@ -9,6 +9,7 @@ I'm interested in software development!
 <a target="_blank"><img src="https://img.shields.io/badge/-C++-279EE9?style=for-the-badge&logo=Cplusplus&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-C-279EE9?style=for-the-badge&logo=C&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-Git-E92727?style=for-the-badge&logo=Git&logoColor=white"></img></a>
 
 ## Lerning
