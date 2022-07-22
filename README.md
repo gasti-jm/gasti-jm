@@ -23,10 +23,11 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-BE27E9?&style=for-the-badge&logo=kotlin&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img></a>
-![Duolingo](https://img.shields.io/badge/English-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+<a target="_blank" href="https://www.duolingo.com/profile/gASTINNN"><img src="https://img.shields.io/badge/English-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></img></a>
 
 
 # 📫 Contact
 
+<a target="_blank" href="https://www.linkedin.com/in/gasti-jm/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/gasti-jm/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:gastin22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
