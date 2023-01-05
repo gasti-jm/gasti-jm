@@ -6,12 +6,12 @@
 
 # 🛠️ Technologies and tools
 
-<a target="_blank"><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></img></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Kotlin-BE27E9?&style=for-the-badge&logo=kotlin&logoColor=white"></img></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img></a>
-<a target="_blank"><img src="https://img.shields.io/badge/VBA_.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img></a>
-<a target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img></a>
-<a target="_blank"><img src="https://img.shields.io/badge/-Git-E92727?style=for-the-badge&logo=Git&logoColor=white"></img></a>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Kotlin-BE27E9?&style=for-the-badge&logo=kotlin&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/VBA_.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Git-E92727?style=for-the-badge&logo=Git&logoColor=white"></img>
 
 <a target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></img></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img></a>
