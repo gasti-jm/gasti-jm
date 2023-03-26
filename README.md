@@ -15,10 +15,8 @@
 <a target="title"><img src="https://img.shields.io/badge/Netbeans-eb5c5c?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"></img></a>
 <a target="title"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></img></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gasti-jm&show_icons=true&locale=en&layout=compact" alt="gasti-jm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gasti-jm&show_icons=true&locale=en" alt="gasti-jm" /></p>
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gasti-jm&show_icons=true&locale=en" alt="gasti-jm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gasti-jm&show_icons=true&locale=en&layout=compact" alt="gasti-jm" /></p>
 
 # Learning
 
