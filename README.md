@@ -2,6 +2,7 @@
 
 * My name is Jorge Gastón Martínez, everyone calls me Gastón.
 * I'm from Argentina, Buenos Aires. 
+* I'm learning to Java Full-Stack.
 
 <h1 name="title">Technologies and tools<h1>
 
