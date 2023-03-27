@@ -19,6 +19,9 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gasti-jm&show_icons=true&locale=en" alt="gasti-jm" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gasti-jm&show_icons=true&locale=en&layout=compact" alt="gasti-jm" /></p>
 
+# Hobbies
+I like game development and in my free time I develop some small projects ❤️
+
 # Learning
 
 <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img></a>
