@@ -16,8 +16,20 @@
 <a target="title"><img src="https://img.shields.io/badge/Netbeans-eb5c5c?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"></img></a>
 <a target="title"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></img></a>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gasti-jm&show_icons=true&locale=en" alt="gasti-jm" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gasti-jm&show_icons=true&locale=en&layout=compact" alt="gasti-jm" /></p>
+<p align="center">
+  <a href="https://github.com/gasti-jm">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gasti-jm&theme=transparent" />
+  </a>
+  <a href="https://github.com/gasti-jm">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gasti-jm&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/gasti-jm">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gasti-jm&theme=transparent" />
+  </a>
+  <a href="https://github.com/gasti-jm">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasti-jm&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
 
 # Hobbies
 I like game development and in my free time I develop some small projects ❤️
