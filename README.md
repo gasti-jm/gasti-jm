@@ -6,6 +6,7 @@
 
 <h1 name="title">Technologies and tools<h1>
 
+<div align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
@@ -15,6 +16,8 @@
 <a target="title"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img></a>
 <a target="title"><img src="https://img.shields.io/badge/Netbeans-eb5c5c?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"></img></a>
 <a target="title"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></img></a>
+
+</div>
 
 <p align="center">
   <a href="https://github.com/gasti-jm">
