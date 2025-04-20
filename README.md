@@ -1,6 +1,6 @@
 # About me 🫡
 
-* My name is Jorge Gastón Martínez, everyone calls me Gastón.
+* My name is Gastón Martínez!
 * I'm from Argentina, Buenos Aires. 
 * I'm learning for Java Full-Stack.
 
