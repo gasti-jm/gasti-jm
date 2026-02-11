@@ -1,8 +1,8 @@
 # About me 🫡
 
 * My name is Gastón Martínez!
-* I'm from Argentina, Buenos Aires. 
-* I'm learning for Java Full-Stack.
+* From Argentina, Buenos Aires 🧉❤️
+* I'm Java developer.
 
 <h1 name="title">Technologies and tools<h1>
 
@@ -29,21 +29,9 @@
   <a href="https://github.com/gasti-jm">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gasti-jm&theme=transparent" />
   </a>
-  <a href="https://github.com/gasti-jm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasti-jm&hide_progress=false&card_width=699&theme=transparent"/>
-  </a>
 </p>
-
-# Hobbies
-I like game development and in my free time I develop some small projects ❤️
-
-# Learning
-
-<a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img></a>
-<a target="_blank" href="https://www.duolingo.com/profile/gASTINNN"><img src="https://img.shields.io/badge/English-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></img></a>
 
 
 # Contact
-
 <a target="_blank" href="https://www.linkedin.com/in/gasti-jm/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:gastin22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
