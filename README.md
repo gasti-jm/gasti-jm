@@ -2,19 +2,16 @@
 
 * My name is Gastón Martínez!
 * From Argentina, Buenos Aires 🧉❤️
-* I'm Software developer.
+* I'm Java developer.
 
 <h1 name="title">Technologies and tools<h1>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></img>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Git-E92727?style=for-the-badge&logo=Git&logoColor=white"></img>
-
 <a target="title"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></img></a>
 <a target="title"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img></a>
-<a target="title"><img src="https://img.shields.io/badge/Netbeans-eb5c5c?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"></img></a>
 <a target="title"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></img></a>
 
 </div>
