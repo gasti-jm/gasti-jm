@@ -2,7 +2,6 @@
 
 * My name is Gastón Martínez!
 * From Argentina, Buenos Aires 🧉❤️
-* I'm Java developer.
 
 <h1 name="title">Technologies and tools<h1>
 
